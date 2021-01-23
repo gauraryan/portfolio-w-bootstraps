@@ -1,0 +1,23 @@
+#head{
+  background-color: #ff4c68;
+}
+
+#title{
+
+  background-color: #ff4c68;
+}
+.container-fluid{
+  padding: 6%;
+}
+
+h1{
+
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5;
+  font-weight: 900;
+  font-size: 3rem;
+}
+#sticker{
+  height: 100%;
+  width: 50%;
+}
